@@ -18,7 +18,7 @@
 
 ---
 
-📫 Conecte comigo: [LinkedIn](https://linkedin.com/in/renda-juliao-dos-santos-030b51204)
+📫 Conecte comigo: [LinkedIn](https://www.linkedin.com/in/brenda-juliao-dos-santos-030b51204/)
 
 <!--
 **brendajuliao/brendajuliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
