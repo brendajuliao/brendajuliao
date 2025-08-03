@@ -8,14 +8,12 @@
 
 ## Minha jornada atual:
 - Estudando fundamentos de segurança (TryHackMe, OWASP, Linux)
-- Aprendendo Python com foco em automação e análise de logs
-- Me preparando para certificações como SC-900 e Security+
+- Me preparando para certificações como CS50Csec, SC-900 e Security+
 
 ---
 
 ## Repositórios em destaque:
 - [`CyberSecurity-Labs`](https://github.com/brendajuliao/CyberSecurity-Labs) – Labs e desafios práticos (TryHackMe, HTB, CTFs)
-- [`Security-Scripts`](https://github.com/brendajuliao/Security-Scripts) – Scripts úteis em Python para segurança
 - [`Notes-Network-Linux`](https://github.com/brendajuliao/Notes-Network-Linux) – Anotações de redes, Linux e segurança
 
 ---
