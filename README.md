@@ -1,8 +1,8 @@
 # 👋 Olá, sou a Brenda Julião!
 
-> Estudante de Engenharia de Computação  
-> Focada em me tornar uma profissional em Cibersegurança  
-> Explorando: Redes, Linux, Python, Web Security e Pentest  
+- Estudante de Engenharia de Computação
+- Focada em me tornar uma profissional em Cibersegurança  
+- Explorando: Redes, Linux, Python, Web Security e Pentest  
 
 ---
 
