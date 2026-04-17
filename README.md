@@ -17,8 +17,7 @@
 - [`Notes-Network-Linux`](https://github.com/brendajuliao/Notes-Network-Linux) – Anotações de redes, Linux e segurança
 
 ---
-
-📫 Conecte comigo: [LinkedIn](https://www.linkedin.com/in/brenda-juliao-dos-santos-030b51204/)
+Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/brenda-juliao-dos-santos-030b51204/)
 
 <!--
 **brendajuliao/brendajuliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
